@@ -41,3 +41,9 @@ setTimeout and setInterval
 
 ## practice in setTimeout
 <img width="759" alt="截屏2025-01-15 上午10 01 30" src="https://github.com/user-attachments/assets/5332c6f7-8478-4d36-bd1e-88f18b0539b7" />
+
+# leanrt how to solve my published webpage not working 
+-  change two lines in index.html file
+-  'p5.js' and 'p5.sound.min.js' files
+-  edit those lines to remove the word 'libraries'.
+-  I spent a lot of time on this. The first time I tried the `workshop0` file, it worked after I deleted the `libraries` . However, `workshop2` kept failing, and I didn’t know why. I spent two hours on this, and eventually, it worked, but I don’t know what I did because I was just repeatedly deleting and re-adding files. This makes me crazy 🥹
