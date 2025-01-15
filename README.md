@@ -8,6 +8,7 @@ setTimeout and setInterval
 
 - Command shift + P
 - Create p5.js project
+- open canvas= live preview start server
 
 ### setTimeout
 <img width="793" alt="截屏2025-01-15 上午9 59 36" src="https://github.com/user-attachments/assets/696dffd6-dced-4ec5-87db-d717fa43b495" />
