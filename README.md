@@ -5,6 +5,7 @@ setTimeout and setInterval
 ### screenshot of process
 <img width="363" alt="截屏2025-01-15 上午9 58 17" src="https://github.com/user-attachments/assets/68f516ea-24bf-4d84-a657-7b741d2fcab2" />
 <img width="541" alt="截屏2025-01-15 上午9 58 38" src="https://github.com/user-attachments/assets/2a1239d8-10ce-4bd6-acc1-6c203bf9d4c7" />
+
 - Command shift + P
 - Create p5.js project
 
