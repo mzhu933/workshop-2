@@ -46,4 +46,4 @@ setTimeout and setInterval
 -  change two lines in index.html file
 -  'p5.js' and 'p5.sound.min.js' files
 -  edit those lines to remove the word 'libraries'.
--  I spent a lot of time on this. The first time I tried the `workshop0` file, it worked after I deleted the `libraries` . However, `workshop2` kept failing, and I didn’t know why. I spent two hours on this, and eventually, it worked, but I don’t know what I did because I was just repeatedly deleting and re-adding files. This makes me crazy 🥹
+-  I spent a lot of time on this. The first time I tried the `workshop0` file, it worked after I deleted the `libraries` . However, `workshop2` kept failing, and I didn’t know why. I spent half day on this, and eventually, it worked, but I don’t know what I did because I was just repeatedly deleting and re-adding files, and continually create new repository. This makes me crazy 🥹
