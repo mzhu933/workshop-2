@@ -42,7 +42,15 @@ setTimeout and setInterval
 ## practice in setTimeout
 <img width="759" alt="截屏2025-01-15 上午10 01 30" src="https://github.com/user-attachments/assets/5332c6f7-8478-4d36-bd1e-88f18b0539b7" />
 
-# leanrt how to solve my published webpage not working 
+## - learing new things in p5 documentation: 
+<img width="925" alt="截屏2025-01-19 下午9 47 11" src="https://github.com/user-attachments/assets/7b861065-9d90-464f-a870-446d38a2e418" />
+
+- ellipseMode(CENTER);
+- fill(100);
+- ellipse(50, 50, 30, 30);
+
+
+## leanrt how to solve my published webpage not working: 
 -  change two lines in index.html file
 -  'p5.js' and 'p5.sound.min.js' files
 -  edit those lines to remove the word 'libraries'.
