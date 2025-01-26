@@ -39,7 +39,7 @@ setTimeout and setInterval
 
 - Add note in my language, I think this one is a bit complicated for me.
 
-## practice in setTimeout
+## - practice in setTimeout
 <img width="759" alt="截屏2025-01-15 上午10 01 30" src="https://github.com/user-attachments/assets/5332c6f7-8478-4d36-bd1e-88f18b0539b7" />
 
 ## - learing new things in p5 documentation: 
@@ -50,8 +50,12 @@ setTimeout and setInterval
 - ellipse(50, 50, 30, 30);
 
 
-## leanrt how to solve my published webpage not working: 
+## - learned how to solve my published webpage not working: 
 -  change two lines in index.html file
 -  'p5.js' and 'p5.sound.min.js' files
 -  edit those lines to remove the word 'libraries'.
 -  I spent a lot of time on this. The first time I tried the `workshop0` file, it worked after I deleted the `libraries` . However, `workshop2` kept failing, and I didn’t know why. I spent half day on this, and eventually, it worked, but I don’t know what I did because I was just repeatedly deleting and re-adding files, and continually create new repository. This makes me crazy 🥹
+
+## - problem 
+I couldn't connect setInterval and setTimeout together, the code kept throwing errors, so in the end, I split it into two separate pieces of code to make it work.
+
