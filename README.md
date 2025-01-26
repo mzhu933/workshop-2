@@ -1,6 +1,6 @@
 # workshop 2
 setTimeout and setInterval
-# URL: https://mzhu933.github.io/workshop-2/
+# URL: https://mzhu933.github.io/workshop2/
 
 ### screenshot of process
 <img width="363" alt="截屏2025-01-15 上午9 58 17" src="https://github.com/user-attachments/assets/68f516ea-24bf-4d84-a657-7b741d2fcab2" />
